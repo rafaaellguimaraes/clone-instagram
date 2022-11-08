@@ -15,7 +15,7 @@ class App extends Component{
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil1.png',
           imgPublicacao:'https://sujeitoprogramador.com/instareact/foto1.png',
           likeada: false, 
-          likers: 0
+          likers: 3
         },
         {
           id: '2',
@@ -24,7 +24,7 @@ class App extends Component{
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil2.png', 
           imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto2.png', 
           likeada: false, 
-          likers: 0
+          likers: 7
         },
         {
           id: '3',
@@ -33,7 +33,7 @@ class App extends Component{
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil3.png', 
           imgPublicacao: 'https://sujeitoprogramador.com/instareact/foto3.png',
           likeada: false, 
-          likers: 0
+          likers: 32
         },
         {
           id: '4',
@@ -42,7 +42,7 @@ class App extends Component{
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil4.png',
           imgPublicacao:'https://sujeitoprogramador.com/instareact/foto4.png',
           likeada: false, 
-          likers: 0
+          likers: 13
         },
         {
           id: '5',
@@ -50,7 +50,8 @@ class App extends Component{
           descricao: 'Boa tarde...',
           imgperfil: 'https://sujeitoprogramador.com/instareact/fotoPerfil5.png',
           imgPublicacao:'https://sujeitoprogramador.com/instareact/foto5.png',
-          likeada: false, likers: 0
+          likeada: false, 
+          likers: 52
         },
       ]
     };
